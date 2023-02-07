@@ -1,0 +1,30 @@
+body{
+    background-color:#111111;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px;
+}
+
+.Intro{
+    font-family: 'Sassy Frass', cursive;
+    font-size: 48px;
+    color: #A5B25F;
+    
+}
+.Verses{
+    font-family: 'Caveat', cursive;
+    font-size: 24px;
+    color: #AA432F;
+}
+ .Outro{
+    color: #f4f4f4;
+    font-family: 'Permanent Marker', cursive;
+ }
